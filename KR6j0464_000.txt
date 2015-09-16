@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 聖無能勝金剛火陀羅尼經
+#+DATE: 2015-08-30 20:33:02.244220
+#+PROPERTY: JUAN 0
