@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:01.991947
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:14
 #+TITLE: 聖無能勝金剛火陀羅尼經
 #+PROPERTY: CBETA_ID T21n1236
 #+PROPERTY: ID KR6j0464
