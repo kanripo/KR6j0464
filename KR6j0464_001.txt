@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:01.991947
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:14
 #+TITLE: 聖無能勝金剛火陀羅尼經
 #+PROPERTY: CBETA_ID T21n1236
 #+PROPERTY: ID KR6j0464
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1236
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0464_T_000-0176c>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0464_T_001-0176c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1236¶
-
- 《聖無能勝金剛火陀羅尼經》¶
+No. 1236¶
+《聖無能勝金剛火陀羅尼經》¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 傳教大師臣法天奉　詔譯¶
@@ -71,8 +70,7 @@ No.1236¶
 法。是時金剛手菩薩。即為天龍夜叉之眾。說¶
 四諦緣生三摩地門十波羅蜜。及本金剛族¶
 大曼拏羅儀則之法。所有梵王天大自在天。¶
-嚩嚕拏俱尸羅。摩嚕多誐嚕拏。那羅延天焰¶
-摩天帝釋天。而得成就者。阿修羅乾闥婆。而¶
+嚩嚕拏俱尸羅。摩嚕多誐嚕拏。那羅延天焰摩天帝釋天。而得成就者。阿修羅乾闥婆。而¶
 得成就者。乃至諸惡部多大羅叉等。難調伏¶
 者而能調伏。懷惡心者而發善心。懷邪見者¶
 而得正見。懷瞋恚者而起慈悲。懷愚暗者而¶
